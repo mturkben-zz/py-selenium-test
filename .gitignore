@@ -1,0 +1,7 @@
+./index = 0.py
+./clear.py
+./geckodriver.log
+./chromedriver.exe
+
+node_modules
+.vscode
